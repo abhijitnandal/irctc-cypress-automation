@@ -1,27 +1,41 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "12311",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "24/01/2025",
+  "SOURCE_STATION": "HWH",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "PRYJ",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Abhijit Mandal",
+      "AGE": 27,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
+      "NAME": "Dipti Mondal",
+      "AGE": 54,
       "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
+    },
+    {
+      "NAME": "Mukunda Mondal",
+      "AGE": 65,
+      "GENDER": "Male",
+      "SEAT": "Side Lower",
+      "FOOD" "No Food"
+    },
+    {
+      "NAME": "Biplab Majumdar",
+      "AGE": 46,
+      "GENDER": "Male",
+      "SEAT": "No Preference",
+      "FOOD" "No Food"
     }
   ],
   "__valid_coaches__": "SL | 2A | 3A | 3E | 1A | CC | EC | 2S",
